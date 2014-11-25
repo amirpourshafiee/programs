@@ -1,3 +1,3 @@
 programs
 ========
-Here is the code for micromanipulator auto adjustment using OpenCV
+Here is the code for micromanipulator auto adjustment using OpenCV.
